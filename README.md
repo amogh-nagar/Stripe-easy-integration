@@ -1,4 +1,4 @@
-# Want to integrate Stripe-API in your Web app
+# Want to integrate Stripe-API in your Web app ?
 
 Then here's a quick starter for you 
 
