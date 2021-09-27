@@ -2,7 +2,7 @@ const express = require("express");
 const app = express();
 const cors = require("cors");
 require('dotenv').config()
-const stripe = require("stripe")(process.env.SECRET_KEY);
+const stripe = require("stripe")('YOUR_KEY');
 const { v4: uuidv4 } = require("uuid");
 
 app.use(express.json());
